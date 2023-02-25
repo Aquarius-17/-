@@ -1,0 +1,6 @@
+QTWIDGETSAPPLICATION.ipch filter=lfs diff=lfs merge=lfs -text
+MAIN.ipch filter=lfs diff=lfs merge=lfs -text
+QtWidgetsApplication1/.vs/QtWidgetsApplication1/v17/ipch/AutoPCH/87bf0db1d38579af/MAIN.ipch filter=lfs diff=lfs merge=lfs -text
+QtWidgetsApplication1/.vs/QtWidgetsApplication1/v17/ipch/AutoPCH/9d43066d47391da8/QTWIDGETSAPPLICATION.ipch filter=lfs diff=lfs merge=lfs -text
+QtWidgetsApplication1/.vs/QtWidgetsApplication1/v17/ipch/AutoPCH/b1eeb397922fd101/MAIN.ipch filter=lfs diff=lfs merge=lfs -text
+QtWidgetsApplication1/.vs/QtWidgetsApplication1/v17/ipch/AutoPCH/fb8b815dc9a0a5fa/QTWIDGETSAPPLICATION.ipch filter=lfs diff=lfs merge=lfs -text
